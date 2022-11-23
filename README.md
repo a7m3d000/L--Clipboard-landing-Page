@@ -37,4 +37,4 @@ This is a [**Clipboared Landing Page**](https://sunnysidew.vercel.app/#/) Websit
 
 # Website Screenshot
 
-![Clipboared Landing Page]()
+![Clipboared Landing Page](https://github.com/ahmedmohmd/clipboard-landing-page/blob/main/app-screenshot.png?raw=true)
