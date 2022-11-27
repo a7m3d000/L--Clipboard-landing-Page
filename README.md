@@ -4,7 +4,7 @@
 
 # Description
 
-This is a [**Clipboared Landing Page**](https://sunnysidew.vercel.app/#/) Website.
+This is a [**Clipboared Landing Page**](https://clipboardlp.vercel.app/) Website.
 
 ---
 
